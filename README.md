@@ -1,5 +1,9 @@
 # tasbhee_counter
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f15adfb4-72b8-4d2b-9521-cb16d815553e" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d822c826-8c0c-4d10-a707-3556ec103027" />
+
 A new Flutter project.
 
 ## Getting Started
